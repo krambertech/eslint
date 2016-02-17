@@ -22,7 +22,7 @@ It will not catch blacklisted identifiers that are:
 
 ## Options
 
-This rule needs a a set of identifier names to blacklist, like so:
+This rule needs a set of identifier names to blacklist, like so:
 
 ```json
 {
